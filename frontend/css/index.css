@@ -1,0 +1,116 @@
+/* main */
+main{
+
+    display: flex;
+    justify-content: center;
+    
+    padding-top: 30px;
+
+}
+
+.reserv{
+
+    background-color: red;
+
+    width: 600px;
+    height: 700px;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+}
+
+.underR{
+
+    background-color: rgb(198, 197, 209);
+
+    width: 500px;
+    height: 600px;
+    /* display: flex;
+    justify-content: center; */
+
+}
+form{
+
+    background-color: aquamarine;
+
+    width: 500px;
+    height: 600px;
+
+
+    display: flex;
+
+    align-items: center;
+    flex-direction: column;
+
+}
+
+input[class="form-input"]{
+
+    width: 222px;
+    height: 30px;
+
+    margin: 2%;
+    padding: 25px;
+    
+    font-size: 25px;
+    font-family: 'Crimson Text', serif;
+    color: #5E6472;
+  
+    outline: none;
+    border: none;
+  
+    border-radius: 0px 5px 5px 0px;
+    transition: 0.2s linear;
+    
+}
+
+
+
+
+
+
+/* bas de page */
+
+footer{
+
+    /* background-color: green; */
+
+    display: flex;
+    position: relative;
+
+    justify-content: center;
+    top: 148px;
+
+
+}
+
+.bas{
+
+    /* background-color: aqua; */
+
+    width: 100px;
+    height: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.credit{
+
+    font-size: x-large;
+
+}
+
+a:hover{
+
+    transition: 0.5s;
+    cursor: default;
+
+    color: blanchedalmond;
+
+}

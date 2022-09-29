@@ -1,0 +1,25 @@
+/* other */
+*{
+
+    padding: 0;
+    margin: 0;
+}
+body{
+
+    background-color: #333333;
+    
+    overflow: hidden;
+
+}
+p, h1, a{
+
+    color: azure;
+
+    text-decoration: none; 
+    font-family: 'Crimson Text', serif;
+
+}
+
+
+
+
